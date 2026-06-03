@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me:
-⚡️ Hello, I'm Huimin Oh, an engineer who proves capability through action.<br>I am deeply interested in handling data thoroughly and designing practical systems. <br>Rather than relying on fancy words, I focus on the essentials and steadily build a solid foundation.<br><br>📚 Current Focus: <br>Deeply studying the core principles of AI and data analysis within the Python ecosystem, while developing the skills to transform ideas into actual services using modern development tools.<br><br>🎯 Interests & Roadmap: <br>Focusing on mechanisms that integrate AI models with real world systems and robotics, while aspiring to design advanced knowledge structures that enhance data connectivity.<br><br>🎓 Academics: <br>Dept. of Computer Science and Engineering (Undergraduate), Chung-Ang University [2023 - Present]
+⚡️ Hello, I'm Huimin Oh, an engineer who proves capability through action.<br>I am deeply interested in handling data thoroughly and designing practical systems. <br>Rather than relying on fancy words, I focus on the essentials and steadily build a solid foundation.<br><br>📚 Current Focus: <br>Deeply studying the core principles of AI and data analysis within the Python ecosystem, while developing the skills to transform ideas into actual services using modern development tools.<br><br>🎯 Interests & Roadmap: <br>Focusing on mechanisms that integrate AI models with real world systems and robotics, while aspiring to design advanced knowledge structures that enhance data connectivity.<br><br>🎓 Academics: <br>Dept. of Computer Science and Engineering(Undergraduate), Chung-Ang University [2023 - Present]
 
 
 ## Socials:
