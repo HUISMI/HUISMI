@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-You can contact me via [![Naver Mail](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:logui01@naver.com)
+You can contact me via [Email](mailto:logui01@naver.com)
 <!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logui01@naver.com) -->
 
 ## 💻 Tech Stack:
