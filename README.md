@@ -1,13 +1,13 @@
-<h1 align="center">Hi there💫, I'm MIN</h1>
+<h1 align="center">Hi there, I'm MIN</h1>
 
-## About Me:
+## 💫About Me:
 ⚡️ Hello, I'm Huimin Oh, an engineer who proves capability through action.<br>I am deeply interested in handling data thoroughly and designing practical systems. <br>Rather than relying on fancy words, I focus on the essentials and steadily build a solid foundation.<br><br>📚 Current Focus: <br>Deeply studying the core principles of AI and data analysis within the Python ecosystem, while developing the skills to transform ideas into actual services using modern development tools.<br><br>🎯 Interests & Roadmap: <br>Focusing on mechanisms that integrate AI models with real world systems and robotics, while aspiring to design advanced knowledge structures that enhance data connectivity.<br><br>🎓 Academics: <br>Dept. of Computer Science and Engineering(Undergraduate), Chung-Ang University [2023 - Present]
 
 
-## Socials:
+## 🌐Socials:
 You can contact me via [logui01@naver.com](mailto:logui01@naver.com)
 
-## Tech Stack:
+## 💻Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 <!--
 💫
